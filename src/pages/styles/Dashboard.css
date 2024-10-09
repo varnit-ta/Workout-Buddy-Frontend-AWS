@@ -1,0 +1,51 @@
+/*Dashboard*/
+.dashboard-notification {
+    height: 100px;
+    width: 40%;
+    background-color: #d8f3eb;
+    border-radius: 0.5em;
+    padding: 1vh;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.dashboard-notification img {
+    height: 80px;
+    width: 80px;
+}
+
+.dashboard-notification p {
+    color: var(--primary);
+}
+
+.dashboard-section{
+    display: flex;
+    flex: row;
+    gap: 10px;
+    margin-top: 4vh;
+    flex-wrap: wrap;
+}
+
+.dashboard-left{
+    flex: 1;
+    min-width: 400px;
+}
+.dashboard-right{
+    flex: 1;
+    min-width: 400px;
+}
+
+.dashboard-workouts {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+@media screen and (max-width: 768px){
+    .dashboard-notification{
+        width: 300px;
+    }
+}

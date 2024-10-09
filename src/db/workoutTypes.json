@@ -1,0 +1,125 @@
+[
+  {
+    "name": "--Select a workout--"
+  },
+  {
+    "name": "Deadlift",
+    "caloriesBurnedPerHour": 400,
+    "reps": 5,
+    "load": 80
+  },
+  {
+    "name": "Squats",
+    "caloriesBurnedPerHour": 350,
+    "reps": 8,
+    "load": 60
+  },
+  {
+    "name": "Bench Press",
+    "caloriesBurnedPerHour": 300,
+    "reps": 6,
+    "load": 70
+  },
+  {
+    "name": "Pull-ups",
+    "caloriesBurnedPerHour": 600,
+    "reps": 10,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Push-ups",
+    "caloriesBurnedPerHour": 500,
+    "reps": 15,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Barbell Rows",
+    "caloriesBurnedPerHour": 350,
+    "reps": 8,
+    "load": 50
+  },
+  {
+    "name": "Shoulder Press",
+    "caloriesBurnedPerHour": 250,
+    "reps": 8,
+    "load": 40
+  },
+  {
+    "name": "Lunges",
+    "caloriesBurnedPerHour": 300,
+    "reps": 10,
+    "load": 20
+  },
+  {
+    "name": "Dumbbell Curls",
+    "caloriesBurnedPerHour": 200,
+    "reps": 12,
+    "load": 10
+  },
+  {
+    "name": "Tricep Dips",
+    "caloriesBurnedPerHour": 400,
+    "reps": 10,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Planks",
+    "caloriesBurnedPerHour": 250,
+    "reps": 3,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Russian Twists",
+    "caloriesBurnedPerHour": 300,
+    "reps": 15,
+    "load": 5
+  },
+  {
+    "name": "Leg Press",
+    "caloriesBurnedPerHour": 350,
+    "reps": 12,
+    "load": 120
+  },
+  {
+    "name": "Hammer Curls",
+    "caloriesBurnedPerHour": 200,
+    "reps": 10,
+    "load": 12
+  },
+  {
+    "name": "Calf Raises",
+    "caloriesBurnedPerHour": 300,
+    "reps": 20,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Crunches",
+    "caloriesBurnedPerHour": 250,
+    "reps": 20,
+    "load": "Bodyweight"
+  },
+  {
+    "name": "Leg Curls",
+    "caloriesBurnedPerHour": 300,
+    "reps": 12,
+    "load": 40
+  },
+  {
+    "name": "Romanian Deadlifts",
+    "caloriesBurnedPerHour": 400,
+    "reps": 8,
+    "load": 70
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "caloriesBurnedPerHour": 300,
+    "reps": 12,
+    "load": 10
+  },
+  {
+    "name": "Side Planks",
+    "caloriesBurnedPerHour": 200,
+    "reps": 3,
+    "load": "Bodyweight"
+  }
+]

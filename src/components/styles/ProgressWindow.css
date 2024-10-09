@@ -1,0 +1,26 @@
+.progress-window{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.circular-progress-bar{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+
+    background: #fff;
+    border-radius: 0.5em;
+    padding: 20px;
+    position: relative;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.circular-progress-bar h4{
+    color: #555;
+    margin: 0;
+    font-size: 1em;
+}
